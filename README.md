@@ -38,6 +38,11 @@ Lets users draw in mid-air using finger tracking via MediaPipe.
 
 ---
 
+### 🐒 Momo  
+🔗 [View Repo](https://github.com/visionbyangelic/momo)  
+A cute Animation that react when it sees a humans face and also when it doesnt.
+
+---
 ### 🕶️ Glassify
 🔗 [View Repo](https://github.com/visionbyangelic/Glassify)  
 Overlays virtual sunglasses on detected faces in real-time using facial landmarks.
